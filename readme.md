@@ -1,3 +1,7 @@
+<div align="center">
+<img src="app-hemedio/assets/images/adaptive-icon.png" width="200"/>
+</div>
+
 # Hémedio - Aplicativo de Lembrete de Medicamentos
 
 Hémedio é um aplicativo móvel projetado para lembrar os usuários de tomar seus medicamentos no horário certo. Construído com React Native e Expo, ele oferece uma interface elegante com notificações de alarmes personalizáveis, perfil de usuário e muito mais.
