@@ -1,0 +1,46 @@
+body {
+    font-family: Arial, sans-serif;
+  }
+  
+  .hero {
+    background-color: #ffff;
+  }
+  
+  .hero h1 {
+    font-size: 3rem;
+    font-weight: bold;
+  }
+  
+  .hero p {
+    font-size: 1.25rem;
+  }
+  
+  footer {
+    background-color: #222;
+  }
+  
+  footer p {
+    margin: 0;
+  }
+  
+  .logo {
+    width: 100px;
+  }
+  
+  .screenshots img {
+    max-width: 100%;
+    border-radius: 8px;
+  }
+  
+  .features h4 {
+    color: #007bff;
+    font-size: 1.5rem;
+  }
+  
+/* div.container01{
+  background-color: #6CCECE;
+  border-radius: 23px;
+  
+  width: 1px 1px 1px 1px ;
+  
+} */
